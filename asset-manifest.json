@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/panda-booking-react-web/static/css/main.becdf685.chunk.css",
+    "main.js": "/panda-booking-react-web/static/js/main.68025d01.chunk.js",
+    "main.js.map": "/panda-booking-react-web/static/js/main.68025d01.chunk.js.map",
+    "runtime-main.js": "/panda-booking-react-web/static/js/runtime-main.2809a574.js",
+    "runtime-main.js.map": "/panda-booking-react-web/static/js/runtime-main.2809a574.js.map",
+    "static/js/2.caad8dee.chunk.js": "/panda-booking-react-web/static/js/2.caad8dee.chunk.js",
+    "static/js/2.caad8dee.chunk.js.map": "/panda-booking-react-web/static/js/2.caad8dee.chunk.js.map",
+    "index.html": "/panda-booking-react-web/index.html",
+    "precache-manifest.0ae19c8b87ebba3681dd32a4f0d1d68d.js": "/panda-booking-react-web/precache-manifest.0ae19c8b87ebba3681dd32a4f0d1d68d.js",
+    "service-worker.js": "/panda-booking-react-web/service-worker.js",
+    "static/css/main.becdf685.chunk.css.map": "/panda-booking-react-web/static/css/main.becdf685.chunk.css.map",
+    "static/js/2.caad8dee.chunk.js.LICENSE.txt": "/panda-booking-react-web/static/js/2.caad8dee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2809a574.js",
+    "static/js/2.caad8dee.chunk.js",
+    "static/css/main.becdf685.chunk.css",
+    "static/js/main.68025d01.chunk.js"
+  ]
+}
